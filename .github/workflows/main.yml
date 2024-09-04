@@ -7,8 +7,8 @@ jobs:
       - name: Print to console
         run:  echo Hello GH Actions!
       - name: Print few lines
-        run: |
-          echo first line!e
-          echo second line!
+        run: 
+          echo First line!
+          echo Second line!
         
   
